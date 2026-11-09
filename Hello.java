@@ -1,5 +1,6 @@
 class Hello {
     public static void main(String[] args) {
-        System.out.println("Welcome to CI Pipeline");
+        System.out.println("Welcome to CI updated ");
     }
+
 }
